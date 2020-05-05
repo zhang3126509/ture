@@ -17,6 +17,7 @@ exec "nohlsearch"
 set incsearch
 set ignorecase
 set smartcase
+set nu
 
 
 
