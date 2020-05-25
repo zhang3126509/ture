@@ -35,6 +35,10 @@ noremap J 5h
 noremap L 5l
 noremap H I
 noremap h i
+
+
+
+
 noremap <LEADER>i :set nosplitbelow<CR>:split<CR>
 noremap <LEADER>k :set splitbelow<CR>:split<CR>
 noremap <LEADER>l :set splitright<CR>:vsplit<CR>
