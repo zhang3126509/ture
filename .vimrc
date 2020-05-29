@@ -51,8 +51,10 @@ map <LEADER>DER>J <C-w>h
 map <LEADER>DER>L <C-w>l
 
 
-
-
+map <up> :res +5<CR>
+map <down> :res -5<CR>
+map <left> :vertical resize-5<CR>
+map <right> :vertical resize+5<CR>
 
 
 noremap i k
