@@ -45,6 +45,16 @@ noremap <LEADER>l :set splitright<CR>:vsplit<CR>
 noremap <LEADER>j :set nosplitright<CR>:vsp;it<CR>
 
 
+map <LEADER>DER>K <C-w>j
+map <LEADER>DER>I <C-w>k
+map <LEADER>DER>J <C-w>h
+map <LEADER>DER>L <C-w>l
+
+
+
+
+
+
 noremap i k
 noremap k j
 noremap j h
